@@ -39,31 +39,31 @@ header {
 }
 
 .btn button {
-    /* 
-    margin: 2px 90px 10px 240px;
-    background-color: #E55473;
-    padding: 20px 33px;
-    display: inline-flex;
-    color: white; */
+
 
 
     border-radius: 8px;
-    /* display: inline-flex; */
+
     padding: 20px 43px;
-    /* align-items: flex-start; */
-    /* gap: 10px; */
+
     background-color: #E55473;
     margin-left: 240px;
     border-color: #E55;
     font-size: 20px;
-
+    color: white;
 
 
 }
 
 .header-img {
-    margin-top: 50px;
-    margin-right: 300px;
+    /* margin-top: 50px;
+    margin-right: 300px; */
+    /* width: 635 px;
+    height: 800px; */
+    margin-bottom: 55px;
+    margin-right: 100px;
+    padding-right: 100px;
+
 }
 
 .promotion-container {
@@ -73,8 +73,7 @@ header {
     margin-top: 100px;
     background: rgba(229, 84, 115, 0.05);
 
-    /* height: 50%;
-    height: 100vh; */
+
 
 
 }
