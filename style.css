@@ -96,6 +96,7 @@ span {
     color: white;
     margin-left: 350px;
     border-radius: 5px;
+    border-color: #E55473;
 }
 
 .insta {
@@ -167,4 +168,57 @@ span {
     border-radius: 5px;
     font-size: 17px;
     margin-right: 450px;
+    border-color: #E55473;
+}
+
+.footer-container {
+    width: 1922px;
+    height: 449px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #111010;
+    color: white;
+    text-align: center;
+    padding-left: 120px;
+
+
+}
+
+.footer-title {
+    margin-bottom: 24px;
+}
+
+.footer-description {
+    margin-bottom: 32px;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 625px;
+    height: 60px;
+
+
+}
+
+.feature-section {
+
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.feature-title {
+    margin-bottom: 24px;
+}
+
+.feature {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature-1 {
+    width: 310px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
 }
