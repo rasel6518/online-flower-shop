@@ -63,6 +63,8 @@ header {
     justify-content: space-around;
     align-items: center;
     margin-top: 100px;
+    background: rgba(229, 84, 115, 0.05);
+
     /* height: 50%;
     height: 100vh; */
 
@@ -169,6 +171,7 @@ span {
     font-size: 17px;
     margin-right: 450px;
     border-color: #E55473;
+    margin-left: 15px;
 }
 
 
@@ -244,6 +247,15 @@ span {
 }
 
 .feature-1-descrip {}
+
+.feature-img-descrip {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
 
 
 .feature-2 {
